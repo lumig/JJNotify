@@ -1,0 +1,2 @@
+# JJNotify
+通过runtime自定义通知取代系统通知，从而省去通知在dealloc中的注销
